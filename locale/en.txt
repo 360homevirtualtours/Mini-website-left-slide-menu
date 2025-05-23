@@ -14,9 +14,9 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 ### Floorplan
 
 ### Image
-imlevel_DDD15946_FF50_BC43_41D7_292D44D9C3FC.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_0.png
-imlevel_DDD16947_FF50_BC40_41D7_7C52F7D3ECAE.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_1.png
-imlevel_DDD18947_FF50_BC40_41D0_7171ACD6437E.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_2.png
+imlevel_DBDB1B07_FCB0_BDB8_41DE_4CFA7348A51B.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_0.png
+imlevel_DBDB3B08_FCB0_BDC8_41D4_A405760D7A83.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_1.png
+imlevel_DBDBCB08_FCB0_BDC8_41DC_FE3024CCEB38.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_2.png
 
 ### Title
 panorama_EDCDC135_FCF0_AF2C_41C0_8CB840788CAE.label = Bathroom
@@ -96,4 +96,4 @@ HTMLText_E13D5362_FF57_6C26_41B3_D5DBEEBD1C36.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = Untitled 63
+tour.name = Mini-site-left-slide-menu
