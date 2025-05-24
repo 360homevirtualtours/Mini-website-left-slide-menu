@@ -6,6 +6,7 @@
 LinkBehaviour_E399AFA1_FCD0_D42A_41D9_E2A2BA509868.source = https://360-home-virtualtours.es/contact/
 LinkBehaviour_E312D988_FCB3_5CF8_41E3_54965AC9CC83.source = https://360-home-virtualtours.es/contact/
 WebFrame_E67A273F_FCD3_5405_41E0_E9A2EC3D3805.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
+WebFrame_E67A273F_FCD3_5405_41E0_E9A2EC3D3805_mobile.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1694.2888099666322!2d-0.6517796000000091!3d38.0016521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63abd74f1edc5f%3A0x64840d459a383ca3!2sTorre%20del%20Moro%20Park!5e1!3m2!1snl!2ses!4v1748011340724!5m2!1snl!2ses
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1694.2888099666322!2d-0.6517796000000091!3d38.0016521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63abd74f1edc5f%3A0x64840d459a383ca3!2sTorre%20del%20Moro%20Park!5e1!3m2!1snl!2ses!4v1748011340724!5m2!1snl!2ses
 
@@ -19,9 +20,9 @@ audiores_D7DDB8FF_FD70_DC60_41EA_8B200FE437CB.mp3Url = media/audio_D716B379_FD70
 ### Floorplan
 
 ### Image
-imlevel_D7B95219_FD50_AFA1_41D4_79FCD29BC647.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_0.png
-imlevel_D7B94219_FD50_AFA1_41A1_DCA953591109.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_1.png
-imlevel_D7B97219_FD50_AFA1_41E8_B9DB315CEB7C.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_2.png
+imlevel_156E9077_010C_DBC6_4148_D75CF25E9003.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_0.png
+imlevel_156EB078_010C_DBCA_4164_11B1B748CF7A.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_1.png
+imlevel_156EA078_010C_DBCA_4166_EAE98AA8BE32.url = media/map_E6A3A456_FCB1_540B_41DE_B71E682978F6_en_2.png
 
 ### Title
 panorama_EDCDC135_FCF0_AF2C_41C0_8CB840788CAE.label = Baño
